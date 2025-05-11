@@ -1,0 +1,10 @@
+explorer
+Microsoft.Photos
+WinStore.App
+TaskInputHost
+ShellExperienceHost
+#GameBarPresenceWriter
+atieclxx
+RtkNGUI64
+spoolsv
+
