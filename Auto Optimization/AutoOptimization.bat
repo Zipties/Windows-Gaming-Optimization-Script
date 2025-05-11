@@ -102,12 +102,12 @@ for %%S in (%services%) do (
 )
 
 :: closing unessesary tasks
-taskkill /F /IM "explorer.exe"
+#taskkill /F /IM "explorer.exe"
 taskkill /F /IM "Microsoft.Photos.exe"
 taskkill /F /IM "WinStore.App.exe"
 taskkill /F /IM "TaskInputHost.exe"
 taskkill /F /IM "ShellExperienceHost.exe"
-taskkill /F /IM "GameBarPresenceWriter.exe"
+#taskkill /F /IM "GameBarPresenceWriter.exe"
 taskkill /F /IM "atieclxx.exe"
 taskkill /F /IM "RtkNGUI64.exe"
 taskkill /F /IM "spoolsv.exe"
