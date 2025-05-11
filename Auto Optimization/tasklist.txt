@@ -21,3 +21,4 @@ portal2.exe
 RDR2.exe
 GTA5.exe
 Borderlands2.exe
+haloinfinite.exe
